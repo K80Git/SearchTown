@@ -1,24 +1,25 @@
-# README
+# はじめに
+本アプリは、Tech Trainのミッション「大学生が使いたくなる家探しサービスを作ろう」に関するアプリである。
+当該ミッションにおいて、私は「Search Town」とのアプリケーションを作成する。
+なお、本アプリの概要について、下記ファイルに整理した。
+https://docs.google.com/presentation/d/1sRO5MDV5Ju3ySkKZVcM9QvH7EDKmV3SnvI5AjGX9Icc/edit?usp=sharing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# mission1 お部屋探しをしてみよう
+既存の不動産検索アプリ（SUUMO、at homeなど）を使用し、物件を探した。
+その中で、わかった良い点、悪い点を以下に整理する。合わせて、自身の経験に基づき、良かった点、悪かった点についても整理する。
 
-Things you may want to cover:
+## 良い点
+### きめ細かな条件検索ができる
+家賃の上限下限をはじめ、駅からの距離、設備の有無、構造など、条件を細かく設定し、検索することができ、自身の好みや条件に適合した物件を素早く見つけることができる。
 
-* Ruby version
+### 学生向けの検索ができる
+初めて物件を探す大学生でも、簡単に条件を決めることができる。また、大学名から最寄りの駅を検索し、その沿線の平均家賃などを表示させるなど、わかりやすいデザインとなっている。
 
-* System dependencies
+## 悪い点
+### 地域の状況を把握できない
+物件については、条件に基づき抽出されるが、地域の状況については把握することができず、住みやすい地域かどうかわからない。
+室内においては、家具を揃えるなどをして利便性を高めることができるが、地域については利便性を向上させることは困難である。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 自身のニーズをうまく反映できない
+物件を借りる際、月々の支払いの上限等もあるため必須の条件になってくるが、その他の設備の有無に関する条件などについては、個人のニーズを反映させるものであると考えられる。しかし、初めての一人暮らしを行うにあたっては、自身のニーズ自体が明確になっていない可能性や、実際に住み始めてからこそ出てくるニーズもあると思われる。
+そのような真のニーズに対応することができる可能性が低いと思われる。
