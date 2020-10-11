@@ -35,3 +35,10 @@ https://docs.google.com/presentation/d/1sRO5MDV5Ju3ySkKZVcM9QvH7EDKmV3SnvI5AjGX9
 ## 地域の情報を提供
 物件内の利便性については、家具等により改善が可能であるが、地域については改善することが困難であるため、地域について知ってもらうことが重要である。
 そのため、物件の情報だけでなく、地域の情報について情報提供をメインにすることが必要である。
+
+# mission3 画面遷移図と画面設計図を作ってみよう
+以下に遷移図を示す。
+https://user-images.githubusercontent.com/67084301/95669556-23116880-0bbd-11eb-8c6c-e8619b8c3b9f.png
+
+以下に画面設計図を示す。
+https://user-images.githubusercontent.com/67084301/95669820-ab910880-0bbf-11eb-8dea-ee8019307ffe.png
