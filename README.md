@@ -38,7 +38,8 @@ https://docs.google.com/presentation/d/1sRO5MDV5Ju3ySkKZVcM9QvH7EDKmV3SnvI5AjGX9
 
 # mission3 画面遷移図と画面設計図を作ってみよう
 以下に遷移図を示す。
-https://github.com/K80Git/SearchTown/issues/3#issue-718748917
+<img width="720" alt="画面遷移図" src="https://user-images.githubusercontent.com/67084301/95669556-23116880-0bbd-11eb-8c6c-e8619b8c3b9f.png">
 
 以下に画面設計図を示す。
-https://github.com/K80Git/SearchTown/issues/4#issue-718750842
+<img width="825" alt="画面設計図" src="https://user-images.githubusercontent.com/67084301/95669820-ab910880-0bbf-11eb-8dea-ee8019307ffe.png">
+
